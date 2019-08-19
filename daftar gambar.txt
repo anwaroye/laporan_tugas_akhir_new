@@ -1,0 +1,55 @@
+Gambar 2.1 Logo XamppHalaman 8 
+Gambar 2.2 Logo PhpMyAdminHalaman 8 
+Gambar 2.3 Penjelasaan simbol entitasHalaman 11
+Gambar 2.4 Penulisan elemen HTML yang tumpang tindihHalaman 13
+Gambar 2.5 Penulisan Elemen HTML yang Normal Halaman 13
+Gambar 3.1 Desain Penelitian Halaman 21
+Gambar 3.2 Use CaseHalaman 25
+Gambar 3.3 Activity Diagram Login UserHalaman 25
+Gambar 3.4 Activity Diagram Import Data Training Halaman 26
+Gambar 3.5 Activity Diagram Klasifikasi testing Halaman 27
+Gambar 3.6 Activity Diagram Export Pdf KlHalaman 28
+Gambar 3.7 Gambar Flowcart Aplikasi Halaman 29
+Gambar 3.8 Rancangan Halaman Awal Halaman 30
+Gambar 3.9 Rancangan Halaman LoginHalaman 30
+Gambar 3.10 Rancangan Halaman Tampil DataHalaman training 31
+Gambar 3.11 Rancangan Halaman Tampil Data Testing Halaman 32
+Gambar 3.12 Rancangan Halaman Tambah Data Halaman 32
+Gambar 3.13 Rancangan Halaman Tampil Data Export Pdf per id Halaman 33
+Gambar 4.1 Tampilan Halaman Intro Halaman 37 
+Gambar 4.2 Tampilan Halaman LoginHalaman 37
+Gambar 4.3 Tampilan Tabel Training Halaman 38
+Gambar 4.4 Tampilan Halaman Testing Halaman 38
+Gambar 4.5 Tampilan Form Testing Halaman 39
+Gambar 4.6 Tampilan Tabel Testing Halaman 39
+Gambar 4.7 Tampilan Modal View TestingHalaman 40
+Gambar 4.8 Tampilan Tabel TestingExport Pdf Halaman 40
+Gambar 4.9 Tampilan Export Pdf Halaman 40
+Gambar 4.10 Gambar Tabel UserHalaman 41
+Gambar 4.11 Gambar Tabel Training Halaman 41
+Gambar 4.12 Gambar Tabel testingHalaman 42
+Gambar 4.13 Tampilan Halaman LoginHalaman 42
+Gambar 4.14 Gambar Setelah Berhasil Melakukan Login Halaman 43
+Gambar 4.15 Ketika user salah memasukan username / passwordHalaman 43
+Gambar 4.16 Tampilan Menu dan Sub-menu Halaman 44
+Gambar 4.17 Gambar Import Data Training Halaman 44
+Gambar 4.18 Gambar Pilih Data Excel Halaman 44
+Gambar 4.19 Gambar Status berhasil importHalaman 45
+Gambar 4.20 Tampilan Menu dan Sub-menu Halaman 45
+Gambar 4.21 Form Klasifikasi Calon Pengursu Halaman 46
+Gambar 4.22 Tabel Testing Halaman 46
+Gambar 4.23 View Modal Testing Halaman 47
+Gambar 4.24 Tampilan export Testing PdfHalaman 47
+
+
+
+
+
+===========
+tabel
+===========
+Tabel 3.1 kebutuhan Hardware Halaman 23
+Tabel 3.2 Kebutuhan Software Halaman 24
+Tabel 3.3 Tabel users Halaman  34
+Tabel 3.4 Tabel training Halaman 34
+Tabel 3.5 Tabel testingHalaman 35
